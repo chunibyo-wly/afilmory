@@ -1,0 +1,42 @@
+{
+  "name": "Chunibyo's Afilmory",
+  "title": "Chunibyo's Afilmory",
+  "description": "Scientific figures.",
+  "url": "https://figure.chunibyo.top/",
+  "accentColor": "#007bff",
+  "author": {
+    "name": "Chunibyo",
+    "url": "https://chunibyo-wly.github.io/",
+    "avatar": "https://raw.githubusercontent.com/chunibyo-wly/image-storage/master/image-20210114191516831-20210114193711806.png"
+  },
+  "social": {
+    "github": "",
+    "twitter": ""
+  },
+  "feed": {
+    "folo": {
+      "challenge": {
+        "feedId": "",
+        "userId": ""
+      }
+    }
+  },
+  "map": [
+    "maplibre"
+  ],
+  "mapStyle": "builtin",
+  "mapProjection": "mercator",
+  "beian": {
+    "icp": {
+      "enabled": false,
+      "number": "XICP备xxxxxxxx号",
+      "link": "https://beian.miit.gov.cn/"
+    },
+    "police": {
+      "enabled": false,
+      "number": "X公网安备xxxxxxxxxxxxxx号",
+      "code": "xxxxxxxxxxxxxx",
+      "icon": "https://example.com/beian.png"
+    }
+  }
+}
